@@ -101,7 +101,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the com
 
 Check out some of my more interesting/stand-out github projects
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianmuigai96)](https://github.com/brianmuigai96/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muigaibrian0)](https://github.com/muigaibrian0/github-readme-stats)
 
 
 if you like what i do, maybe consider buying me a coffee
