@@ -1,6 +1,6 @@
-[![Gitlab](https://img.shields.io/badge/Gitlab%20-blue?style=flat&logo=Gitlab&logoColor=white)](https://gitlab.com/)
-[![Gmail](https://img.shields.io/badge/-muigaibrian@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:)](mailto:)
-[![CodeWars](https://img.shields.io/badge/CodeWars%20-brightgreen.svg)](https://www.codewars.com/users/)
+[![Gitlab](https://img.shields.io/badge/Gitlab%20-blue?style=flat&logo=Gitlab&logoColor=white)](https://gitlab.com/muigaibrian0)
+[![Gmail](https://img.shields.io/badge/-ljourney188@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:ljourney188@gmail.com)](mailto:ljourney188@gmail.com)
+[![CodeWars](https://img.shields.io/badge/CodeWars%20-brightgreen.svg)](https://www.codewars.com/users/LearningWizard)
 
 <h3 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
