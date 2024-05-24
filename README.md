@@ -1,5 +1,5 @@
 [![Gitlab](https://img.shields.io/badge/Gitlab%20-blue?style=flat&logo=Gitlab&logoColor=white)](https://gitlab.com/muigaibrian0)
-[![Gmail](https://img.shields.io/badge/-ljourney188@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:ljourney188@gmail.com)](mailto:ljourney188@gmail.com)
+[![Gmail](https://img.shields.io/badge/-learningsocial7@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:learningsocial7@gmail.com)](mailto:learningsocial7@gmail.com)
 [![CodeWars](https://img.shields.io/badge/CodeWars%20-brightgreen.svg)](https://www.codewars.com/users/LearningWizard)
 
 <h3 align="center">
@@ -106,4 +106,4 @@ Check out some of my more interesting/stand-out github projects
 
 if you like what i do, maybe consider buying me a coffee
 
-<a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://buymeacoffee.com/brianmuigai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
