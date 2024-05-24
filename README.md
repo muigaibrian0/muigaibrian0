@@ -13,7 +13,7 @@ Welcome to Brian Kiarie Muigai's profile! <img src="https://media.giphy.com/medi
 
 #### Android Developer | Java & Kotlin Enthusiast | Tech Innovator
 
-Hi, i'm [Brian Muigai](https://website/)
+Hi, i'm [Brian Muigai](https://brianmuigai.com)
 
 🚀 **Turning Ideas into Action**: With a passion for problem-solving and a knack for innovation, I'm on a mission to push the boundaries of what's possible in the Android development sphere.
 
