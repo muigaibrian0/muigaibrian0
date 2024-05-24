@@ -11,13 +11,21 @@ Welcome to Brian Kiarie Muigai's profile! <img src="https://media.giphy.com/medi
 
 <img align='right' src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="230">
 
-Hi, i'm [Brian Muigai](https://website/), a passionate full stack web developer and a freelance software engineer student from Moringa school Nairobi Kenya. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+#### Android Developer | Java & Kotlin Enthusiast | Tech Innovator
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the community and i love how the collaboration and knowledge sharing happens.
+Hi, i'm [Brian Muigai](https://website/)
 
+🚀 **Turning Ideas into Action**: With a passion for problem-solving and a knack for innovation, I'm on a mission to push the boundaries of what's possible in the Android development sphere.
 
+💻 **Expertise and Versatility**: Armed with proficiency in Java and Kotlin, I bring versatility to the table, having delved into Spring Boot, Pine Script, Node.js, JavaScript, and API development along the way.
 
+📱 **Crafting Seamless Experiences**: Specializing in creating sleek, efficient, and user-centric Android applications, I thrive on building solutions that resonate with users and make a tangible impact.
 
+🌟 **Continuous Learning and Growth**: I believe in the power of lifelong learning and staying at the forefront of technological advancements. Each project is an opportunity to expand my skill set and elevate my craft.
+
+🌍 **Contributing to a Connected World**: Whether it's through open-source contributions, sharing insights on tech forums, or collaborating with like-minded individuals, I'm committed to making a positive mark on the global tech community.
+
+💬 **Let's Connect**: Whether you're a fellow developer, tech enthusiast, or just someone who loves innovative solutions, I'd love to connect! Let's collaborate, share ideas, and make magic happen in the world of technology.
 
 
 
