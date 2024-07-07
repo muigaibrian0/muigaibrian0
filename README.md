@@ -34,6 +34,9 @@ Check out some of my more interesting/stand-out github projects
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muigaibrian0)](https://github.com/muigaibrian0/github-readme-stats)
 
+## DailyDev Progress
+
+<a href="https://app.daily.dev/brianmuigai"><img src="https://api.daily.dev/devcards/v2/h9nigJYRH8pggxfvJGtQQ.png?type=default&r=boi" width="356" alt="Brian Muigai's Dev Card"/></a>
 
 if you like what i do, maybe consider buying me a coffee
 
